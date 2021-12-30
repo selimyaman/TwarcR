@@ -1,0 +1,5 @@
+#' @import dplyr
+#' @import lubridate
+#' @import rtweet
+
+exportPattern("^[[:alpha:]]+")
